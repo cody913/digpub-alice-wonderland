@@ -1,12 +1,12 @@
-.first-paragraph {
+.chap9text {
     font-family: cursive;
 }
 
-h1 {
+.chap9 {
     color: blue;
 }
 
-h2 {
+.chap9 {
     color: blue;
 }
 
@@ -18,3 +18,10 @@ img {
     width: 50%;
 }
 
+.chap11 {
+    color: purple;
+}
+
+.chap12{
+    color: gold;
+}
