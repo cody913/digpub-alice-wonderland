@@ -1,5 +1,5 @@
 .first-paragraph {
-    text-family;cursive
+    font-family: cursive;
 }
 
 h1 {
@@ -9,3 +9,12 @@ h1 {
 h2 {
     color: blue;
 }
+
+.chap10 {
+    color: red;
+}
+
+img {
+    width: 50%;
+}
+
